@@ -32,14 +32,14 @@ Mapa com localização dos eventos: Especialmente útil se os eventos forem em d
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Diogo Rodrigues da Silva
+- Matricula: 915483
 
 ## Prints do trabalho
 
 <<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
-
+![Tela Inicial](public/assets/img/TelaInicial.png)
 <<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
-
+![Tela Graficos](public/assets/img/GraficosTela.png)
 <<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
-
+![Tela Console](public/assets/img/ConsolePrint.png)
